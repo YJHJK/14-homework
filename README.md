@@ -28,8 +28,7 @@ class ViewController: UIViewController {
         }
         
 
-    
-func btnPlayerExternalMovie(_ sender: UIButton) {
+    func btnPlayerExternalMovie(_ sender: UIButton) {
         //외부 파일 mp4
     let url=NSURL(string:"https://dl.dropboxusercontent.com/s/e38auz050w2mvud/Fireworks.mp4")!
         
