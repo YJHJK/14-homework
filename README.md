@@ -4,13 +4,15 @@
 //  ViewController.swift
 //  MoviePlayer
 //
-//  Created by 203a06 on 2022/05/27.
-//
+// Created by 203a06 on 2022/05/27.
+// 202116019 유정훈
 
-import UIKit
-import AVKit
+ 
+ 
+ import UIKit
+ import AVKit
 
-class ViewController: UIViewController {
+ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
